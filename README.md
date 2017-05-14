@@ -1,4 +1,4 @@
-# simple-nginx-directory-listing-datatable
+# nginx directory listing datatable
 Simple nginx directory listing datatable allow you to use datatable on each directory listing page served by Nginx.
 ![Image nginx directory listing datatable](https://raw.githubusercontent.com/tgiordmaina/simple-nginx-directory-listing-datatable/master/screenshot_demo.png)
 
